@@ -16,8 +16,6 @@
 #SBATCH --job-name=bios731
 #SBATCH --partition=yanglab,week-long-cpu,day-long-cpu
 #SBATCH --cpus-per-task=8
-#SBATCH --mem=16G
-#SBATCH --time=4:00:00
 #SBATCH --output=logs/sim_%A_%a.out
 #SBATCH --error=logs/sim_%A_%a.err
 
