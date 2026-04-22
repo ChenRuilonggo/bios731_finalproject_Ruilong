@@ -1,0 +1,5 @@
+results/
+figures/
+sim/__pycache__/
+__pycache__/
+*.pyc
