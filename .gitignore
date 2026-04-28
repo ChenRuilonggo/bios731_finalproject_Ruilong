@@ -1,5 +1,8 @@
 results/
 figures/
+logs/
 sim/__pycache__/
 __pycache__/
 *.pyc
+.claude/
+*.docx
